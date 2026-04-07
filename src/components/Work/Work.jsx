@@ -90,9 +90,7 @@ export default function Work() {
 
               <div className="work-overlay">
 
-                <span className="cat">
-                  {item.category}
-                </span>
+               
 
                 <h3 className="work-name">
                   {item.title}
